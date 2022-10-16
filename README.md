@@ -1,2 +1,6 @@
 # dio-git-github-challenge
-DIO git and giuhub challenge for beginners
+Reepostory created for *DIO git and giuhub challenge* for beginners.
+
+
+### Useful links
+- [Guide and Syntax for Markdown](https://www.markdownguide.org/)
